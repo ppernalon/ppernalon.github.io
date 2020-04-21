@@ -1,71 +1,79 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e018fe97bdf02b136105353ef69d577",
+    "revision": "9cfa1ace1d45b860b977b5bad872ebc0",
     "url": "/index.html"
   },
   {
-    "revision": "1f0120d933720159ea8b",
-    "url": "/static/css/0.1ba4f118.chunk.css"
+    "revision": "dc9405542ace337cac53",
+    "url": "/static/css/0.84c6d856.chunk.css"
   },
   {
-    "revision": "000454491193155dee81",
+    "revision": "66a8c338550832b518dd",
     "url": "/static/css/4.419477dd.chunk.css"
   },
   {
-    "revision": "624cb1ba2861892f5617",
+    "revision": "4762e71a99e418edcdaa",
     "url": "/static/css/5.98b6d5a2.chunk.css"
   },
   {
-    "revision": "0bb41406e0e1ca8758e1",
-    "url": "/static/css/6.8ac58b9f.chunk.css"
+    "revision": "9e367f71077575560bcb",
+    "url": "/static/css/6.2281d416.chunk.css"
   },
   {
-    "revision": "e79107190761f014b2f9",
+    "revision": "6aea796100513ff8df16",
     "url": "/static/css/7.1f15856a.chunk.css"
   },
   {
-    "revision": "7d6bbe9d541bfbf7276c",
-    "url": "/static/css/main.5a277891.chunk.css"
+    "revision": "395770cee6f37d00040d",
+    "url": "/static/css/8.473a9665.chunk.css"
   },
   {
-    "revision": "1f0120d933720159ea8b",
-    "url": "/static/js/0.d8b7665a.chunk.js"
+    "revision": "93243eb9c1858c2719ec",
+    "url": "/static/css/main.f8f04bf6.chunk.css"
   },
   {
-    "revision": "6c45217e7df86ade1068",
-    "url": "/static/js/3.9aa18317.chunk.js"
+    "revision": "dc9405542ace337cac53",
+    "url": "/static/js/0.b0e40737.chunk.js"
+  },
+  {
+    "revision": "b2038dbac46313285307",
+    "url": "/static/js/3.4b9d07f2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/3.9aa18317.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.4b9d07f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "000454491193155dee81",
-    "url": "/static/js/4.bc5a2811.chunk.js"
+    "revision": "66a8c338550832b518dd",
+    "url": "/static/js/4.ca948a0e.chunk.js"
   },
   {
-    "revision": "624cb1ba2861892f5617",
-    "url": "/static/js/5.a10fedc5.chunk.js"
+    "revision": "4762e71a99e418edcdaa",
+    "url": "/static/js/5.379e63d6.chunk.js"
   },
   {
-    "revision": "0bb41406e0e1ca8758e1",
-    "url": "/static/js/6.d5febf60.chunk.js"
+    "revision": "9e367f71077575560bcb",
+    "url": "/static/js/6.45731da6.chunk.js"
   },
   {
-    "revision": "e79107190761f014b2f9",
-    "url": "/static/js/7.35067b6e.chunk.js"
+    "revision": "6aea796100513ff8df16",
+    "url": "/static/js/7.cda9b54a.chunk.js"
   },
   {
-    "revision": "4ea24125a155e019639e",
-    "url": "/static/js/8.595bdb0a.chunk.js"
+    "revision": "395770cee6f37d00040d",
+    "url": "/static/js/8.c54ea8e4.chunk.js"
   },
   {
-    "revision": "7d6bbe9d541bfbf7276c",
-    "url": "/static/js/main.977301fa.chunk.js"
+    "revision": "771ba3336e4c94f6ad60",
+    "url": "/static/js/9.05783112.chunk.js"
   },
   {
-    "revision": "021a05f2153010e2ce9f",
-    "url": "/static/js/runtime-main.01364361.js"
+    "revision": "93243eb9c1858c2719ec",
+    "url": "/static/js/main.bed5c07a.chunk.js"
+  },
+  {
+    "revision": "4ac0a94d48ee6f908358",
+    "url": "/static/js/runtime-main.9f9501f4.js"
   },
   {
     "revision": "7b09f8786acbfb1e78551bbd51403301",
@@ -120,10 +128,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Background_global.0e966300.jpg"
   },
   {
-    "revision": "ba6fe3d593b79728c8eb36ad9766a859",
-    "url": "/static/media/Background_global_flou.ba6fe3d5.png"
-  },
-  {
     "revision": "0a7c01c39330acc8f4e0f075074aca20",
     "url": "/static/media/Barbu_logo.0a7c01c3.png"
   },
@@ -170,6 +174,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b1aec6929cbe509f33eb73276bb97e1",
     "url": "/static/media/Buttons__menu.0b1aec69.png"
+  },
+  {
+    "revision": "f9a9b96d89314f45c4f3f3a987504f9b",
+    "url": "/static/media/Buttons__scroll_nav_bot.f9a9b96d.png"
+  },
+  {
+    "revision": "bd6f3ad0d87e9b1c4cd3e3cf180fdedd",
+    "url": "/static/media/Buttons__scroll_nav_top.bd6f3ad0.png"
   },
   {
     "revision": "9308702ccf2debcd218707e57c1960be",
