@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4153390360d6c331cbae4a86c227d1d3",
+    "revision": "a587a57aeca9e443e60aafdad5d5521c",
     "url": "/index.html"
   },
   {
-    "revision": "9ae236f664cd378b2230",
+    "revision": "be2b5dfc6e3fdeb7e257",
     "url": "/static/css/2.f9566ba7.chunk.css"
   },
   {
-    "revision": "fa5a2966137ffe31336b",
+    "revision": "19154535fdd7fe59edc0",
     "url": "/static/css/4.8560b083.chunk.css"
   },
   {
-    "revision": "197b85cec75ace6ad4bb",
-    "url": "/static/css/5.ac88e53a.chunk.css"
+    "revision": "b27382cde3c4f41b3a0c",
+    "url": "/static/css/5.65eff1fd.chunk.css"
   },
   {
-    "revision": "8d3b91be3245e2730bf1",
-    "url": "/static/css/main.13b7b5f6.chunk.css"
+    "revision": "64708c2d29213b2fd445",
+    "url": "/static/css/main.a9ee8b83.chunk.css"
   },
   {
-    "revision": "9ae236f664cd378b2230",
-    "url": "/static/js/2.4774f67f.chunk.js"
+    "revision": "be2b5dfc6e3fdeb7e257",
+    "url": "/static/js/2.e88c8b42.chunk.js"
   },
   {
     "revision": "48404604295e05b51bd7",
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.b0d009c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa5a2966137ffe31336b",
-    "url": "/static/js/4.d70ecb1b.chunk.js"
+    "revision": "19154535fdd7fe59edc0",
+    "url": "/static/js/4.f29a9dc8.chunk.js"
   },
   {
-    "revision": "197b85cec75ace6ad4bb",
-    "url": "/static/js/5.f518d5e4.chunk.js"
+    "revision": "b27382cde3c4f41b3a0c",
+    "url": "/static/js/5.d0f613e2.chunk.js"
   },
   {
-    "revision": "8d3b91be3245e2730bf1",
-    "url": "/static/js/main.d560144c.chunk.js"
+    "revision": "64708c2d29213b2fd445",
+    "url": "/static/js/main.ffa7ffea.chunk.js"
   },
   {
-    "revision": "7bf04b522e8ceca5f34c",
-    "url": "/static/js/runtime-main.6bccd673.js"
+    "revision": "6d276ef5da01f47209fa",
+    "url": "/static/js/runtime-main.6048c49e.js"
   },
   {
     "revision": "39c56a0ab82e4a8b31961f6f2c1f5233",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/R2CM_logo.747fb39a.png"
   },
   {
-    "revision": "33260e03060e371ffb180c4ced5249ce",
-    "url": "/static/media/RIC_logo.33260e03.png"
+    "revision": "2ac2dce14f4ab6962520217781ed0119",
+    "url": "/static/media/RIC_logo.2ac2dce1.png"
   },
   {
     "revision": "a66db72e3582b669c2db14c638fa5b27",
